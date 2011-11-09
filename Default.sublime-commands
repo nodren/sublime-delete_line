@@ -1,0 +1,6 @@
+[
+    {
+        "caption": "Delete the current line",
+        "command": "delete_line"
+    }
+]
