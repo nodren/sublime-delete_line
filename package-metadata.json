@@ -1,0 +1,5 @@
+{
+    "version":"1.0",
+    "url": "http://github.com/nodren/sublime-delete_line",
+    "description": "Delete an entire line or selected block of lines with a quick shortcut"
+}
